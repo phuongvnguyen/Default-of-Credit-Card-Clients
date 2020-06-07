@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[73]:
-
 
 from warnings import simplefilter
 simplefilter(action='ignore', category=FutureWarning)
@@ -105,10 +100,3 @@ class main():
     
 if __name__=='__main__':
     main()
-
-
-# In[ ]:
-
-
-
-
